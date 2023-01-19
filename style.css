@@ -1,0 +1,144 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-size: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    margin-top: 50px auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'Freehand', cursive;
+    color: #509a9a;
+    height: 20%;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #509a9a;
+    font-weight: normal;
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    padding-top: 100px;
+    position: relative;
+}
+
+
+hr {
+    margin-top: 5%;
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 5px;
+    color: #34363694;
+
+}
+
+.middle-container{
+    background-color: aliceblue;
+    margin: 100px 0;
+}
+
+h3 {
+    color: #11999E;
+}
+
+.bottom-container {
+    margin-top: 100px;
+    background-color: #66BFBF;
+    height: 250px;
+    color: #EAF6F6;
+
+
+}
+
+.skill-row {
+    width: 50%;
+    /* padding-left: 25%; */
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 450px;
+    top: 100px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 450px;
+    bottom: 100;
+}
+
+.comp-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chilli-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+/* .chili-desc{
+    clear: right;
+} */
+
+.self-disc {
+     width: 30%;
+     /* margin: auto 50% auto 30%; */
+     /* text-align: center; */
+     margin: auto;
+}
+
+.btn {
+    background-color: rgb(44, 136, 166);
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    padding: 10px;
+    position: relative;
+    top: 32px;
+}
+
+.btn:hover {
+    background-color: white;
+    color: rgb(44, 136, 166);
+    border: 5px solid lightblue;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: #314344;
+    /* padding:20px 23px 20px 23px; */
+    margin: 10px 16px 10px 16px;
+    position: relative;
+    top: 20px;
+    bottom: 200px;
+
+
+}
+a:hover{
+    color: rgb(107, 103, 189);
+}
+.burger-desc{
+    width: 40%;
+    margin:auto;
+}
+.last-desc {
+    position: relative;
+    top: 100px;
+}
+img:hover{
+    background-color: #469889;
+}
